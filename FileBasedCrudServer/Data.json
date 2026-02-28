@@ -1,72 +1,68 @@
 [
-    {
-      "id": 1,
-      "name": "Aarav Sharma",
-      "number": "9876543210",
-      "email": "aarav.sharma@example.com"
-    },
-    {
-      "id": 2,
-      "name": "Priya Verma",
-      "number": "9123456780",
-      "email": "priya.verma@example.com"
-    },
-    {
-      "id": 3,
-      "name": "Rohit Singh",
-      "number": "9988776655",
-      "email": "rohit.singh@example.com"
-    },
-    {
-      "id": 4,
-      "name": "Ananya Gupta",
-      "number": "9090909090",
-      "email": "ananya.gupta@example.com"
-    },
-    {
-      "id": 5,
-      "name": "Karan Mehta",
-      "number": "9345678123",
-      "email": "karan.mehta@example.com"
-    },
-    {
-      "id": 6,
-      "name": "Neha Patel",
-      "number": "9567891234",
-      "email": "neha.patel@example.com"
-    },
-    {
-      "id": 7,
-      "name": "Vikram Joshi",
-      "number": "9784561230",
-      "email": "vikram.joshi@example.com"
-    },
-    {
-      "id": 8,
-      "name": "Simran Kaur",
-      "number": "9871203456",
-      "email": "simran.kaur@example.com"
-    },
-    {
-      "id": 9,
-      "name": "Amit Mishra",
-      "number": "9012345678",
-      "email": "amit.mishra@example.com"
-    },
-    {
-      "id": 10,
-      "name": "Pooja Nair",
-      "number": "9654321876",
-      "email": "pooja.nair@example.com"
-    },
-    {
-        "id":11,
-        "name":"Kavya shaurya",
-        "number":"9140996454",
-        "email":"kavyashaurya@gmail.com"
-
-    }
-   
-
-    
-  ]
+  {
+    "id": 1,
+    "name": "Aarav Sharma",
+    "number": "9876543210",
+    "email": "aarav.sharma@example.com"
+  },
+  {
+    "id": 2,
+    "name": "Priya Verma",
+    "number": "9123456780",
+    "email": "priya.verma@example.com"
+  },
+  {
+    "id": 3,
+    "name": "Rohit Singh",
+    "number": "9988776655",
+    "email": "rohit.singh@example.com"
+  },
+  {
+    "id": 4,
+    "name": "Ananya Gupta",
+    "number": "9090909090",
+    "email": "ananya.gupta@example.com"
+  },
+  {
+    "id": 5,
+    "name": "Karan Mehta",
+    "number": "9345678123",
+    "email": "karan.mehta@example.com"
+  },
+  {
+    "id": 6,
+    "name": "Neha Patel",
+    "number": "9567891234",
+    "email": "neha.patel@example.com"
+  },
+  {
+    "id": 7,
+    "name": "Vikram Joshi",
+    "number": "9784561230",
+    "email": "vikram.joshi@example.com"
+  },
+  {
+    "id": 8,
+    "name": "Simran Kaur",
+    "number": "9871203456",
+    "email": "simran.kaur@example.com"
+  },
+  {
+    "id": 9,
+    "name": "Amit Mishra",
+    "number": "9012345678",
+    "email": "amit.mishra@example.com"
+  },
+  {
+    "id": 11,
+    "name": "issue fixs",
+    "number": "9140996454",
+    "email": "kavyashaurya@gmail.com"
+  },
+  {
+    "name": "Kavya +shaurya",
+    "number": "9140996454",
+    "email": "kavyawedsshaurya@gmail.com",
+    "id": 12
+  }
+]
